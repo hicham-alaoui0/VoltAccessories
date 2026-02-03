@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "settings": {
+        "color_scheme": "scheme-1"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Continue Shopping",
+        "products_to_show": 4
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured-collection"
+  ]
+}

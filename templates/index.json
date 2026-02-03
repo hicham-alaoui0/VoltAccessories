@@ -1,0 +1,370 @@
+{
+  "sections": {
+    "hero": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Tech Accessories",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Elevate your devices with our curated collection of high-performance chargers, cases, and audio gear.",
+            "text_style": "body"
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Best Sellers",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "View All-New",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "buttons"
+      ],
+      "settings": {
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "trust_bar": {
+      "type": "trust-bar",
+      "blocks": {
+        "item_1": {
+          "type": "column",
+          "settings": {
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 8h-3V4H3v16h17V8zm-2 10H5V6h10v12h3v-8zm-9-5h6v2H9v-2z\"\/><\/svg>",
+            "text": "Fast Shipping",
+            "subtext": "7-12 Day Delivery"
+          }
+        },
+        "item_2": {
+          "type": "column",
+          "settings": {
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z\"\/><\/svg>",
+            "text": "Secure Checkout",
+            "subtext": "SSL Encrypted"
+          }
+        },
+        "item_3": {
+          "type": "column",
+          "settings": {
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"\/><\/svg>",
+            "text": "Top Quality",
+            "subtext": "Verified Brands"
+          }
+        },
+        "item_4": {
+          "type": "column",
+          "settings": {
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z\"\/><\/svg>",
+            "text": "24/7 Support",
+            "subtext": "Help Center"
+          }
+        }
+      },
+      "block_order": [
+        "item_1",
+        "item_2",
+        "item_3",
+        "item_4"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "categories": {
+      "type": "category-tiles",
+      "blocks": {
+        "cat_1": {
+          "type": "category",
+          "settings": {
+            "heading": "Phone Cases",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_2": {
+          "type": "category",
+          "settings": {
+            "heading": "Chargers",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_3": {
+          "type": "category",
+          "settings": {
+            "heading": "Cables & Adapters",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_4": {
+          "type": "category",
+          "settings": {
+            "heading": "Audio",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_5": {
+          "type": "category",
+          "settings": {
+            "heading": "MagSafe",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_6": {
+          "type": "category",
+          "settings": {
+            "heading": "Power Banks",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_7": {
+          "type": "category",
+          "settings": {
+            "heading": "Screen Protection",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "cat_8": {
+          "type": "category",
+          "settings": {
+            "heading": "Car Accessories",
+            "link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "cat_1",
+        "cat_2",
+        "cat_3",
+        "cat_4",
+        "cat_5",
+        "cat_6",
+        "cat_7",
+        "cat_8"
+      ],
+      "settings": {
+        "title": "Shop by Category",
+        "heading_size": "h1",
+        "color_scheme": "scheme-1"
+      }
+    },
+    "best_sellers": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true
+      }
+    },
+    "value_props": {
+      "type": "multicolumn",
+      "blocks": {
+        "col_1": {
+          "type": "column",
+          "settings": {
+            "title": "Premium Materials",
+            "text": "<p>We source only the highest quality materials for durability and feel.</p>"
+          }
+        },
+        "col_2": {
+          "type": "column",
+          "settings": {
+            "title": "Device Compatibility",
+            "text": "<p>Tested with the latest devices to ensure perfect fit and function.</p>"
+          }
+        },
+        "col_3": {
+          "type": "column",
+          "settings": {
+            "title": "Satisfaction Guarantee",
+            "text": "<p>Love it or your money back. 30-day hassle-free returns.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "col_1",
+        "col_2",
+        "col_3"
+      ],
+      "settings": {
+        "title": "Why VoltAccessories?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "review_1": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "The quality of the MagSafe case is incredible. Feels just like the original.",
+            "author": "Sarah M.",
+            "verified": true
+          }
+        },
+        "review_2": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Fast shipping and the packaging was premium. Highly recommend.",
+            "author": "James L.",
+            "verified": true
+          }
+        },
+        "review_3": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4,
+            "text": "Great value for money. The cable is sturdy.",
+            "author": "Mike T.",
+            "verified": true
+          }
+        }
+      },
+      "block_order": [
+        "review_1",
+        "review_2",
+        "review_3"
+      ],
+      "settings": {
+        "title": "Verified Reviews",
+        "heading_size": "h1",
+        "color_scheme": "scheme-1",
+        "card_color_scheme": "scheme-2"
+      }
+    },
+    "faq": {
+      "type": "collapsible_content",
+      "blocks": {
+        "q1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "row_content": "<p>Shipping usually takes 7-15 business days depending on your location.</p>"
+          }
+        },
+        "q2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "row_content": "<p>We offer a 30-day return policy for any defective or unsatisfied items.</p>"
+          }
+        },
+        "q3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer tracking?",
+            "row_content": "<p>Yes, you will receive a tracking number via email once your order ships.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "q1",
+        "q2",
+        "q3"
+      ],
+      "settings": {
+        "caption": "Support",
+        "heading": "Frequently Asked Questions",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-2",
+        "open_first_collapsible_row": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "form"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "trust_bar",
+    "categories",
+    "best_sellers",
+    "value_props",
+    "testimonials",
+    "faq",
+    "newsletter"
+  ]
+}

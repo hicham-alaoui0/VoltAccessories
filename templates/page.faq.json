@@ -1,0 +1,55 @@
+{
+    "sections": {
+        "main": {
+            "type": "main-page",
+            "settings": {
+                "padding_top": 28,
+                "padding_bottom": 28
+            }
+        },
+        "faq": {
+            "type": "collapsible_content",
+            "blocks": {
+                "q1": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "How do I track my order?",
+                        "row_content": "<p>You will receive a tracking link via email once your order has shipped. You can also visit our Tracking page.<\/p>"
+                    }
+                },
+                "q2": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "What payment methods do you accept?",
+                        "row_content": "<p>We accept all major credit cards, PayPal, Apple Pay, and Google Pay.<\/p>"
+                    }
+                },
+                "q3": {
+                    "type": "collapsible_row",
+                    "settings": {
+                        "heading": "Can I cancel my order?",
+                        "row_content": "<p>Orders can be cancelled within 1 hour of placement. Please contact support immediately.<\/p>"
+                    }
+                }
+            },
+            "block_order": [
+                "q1",
+                "q2",
+                "q3"
+            ],
+            "settings": {
+                "caption": "",
+                "heading": "Common Questions",
+                "heading_alignment": "center",
+                "layout": "row",
+                "color_scheme": "scheme-1",
+                "container_color_scheme": "scheme-2",
+                "open_first_collapsible_row": false
+            }
+        }
+    },
+    "order": [
+        "main",
+        "faq"
+    ]
+}
