@@ -8,7 +8,7 @@
             }
         },
         "faq": {
-            "type": "collapsible_content",
+            "type": "collapsible-content",
             "blocks": {
                 "q1": {
                     "type": "collapsible_row",
