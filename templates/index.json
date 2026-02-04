@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
@@ -21,10 +30,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Best Sellers",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "View All-New",
-            "button_link_2": "shopify:\/\/collections\/all",
+            "button_link_2": "shopify://collections/all",
             "button_style_secondary_2": true
           }
         }
@@ -37,12 +46,13 @@
       "settings": {
         "image_overlay_opacity": 20,
         "image_height": "large",
+        "image_behavior": "none",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
         "desktop_content_alignment": "center",
+        "show_text_box": true,
         "color_scheme": "scheme-2",
-        "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": true
       }
     },
@@ -52,7 +62,7 @@
         "item_1": {
           "type": "column",
           "settings": {
-            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 8h-3V4H3v16h17V8zm-2 10H5V6h10v12h3v-8zm-9-5h6v2H9v-2z\"\/><\/svg>",
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 8h-3V4H3v16h17V8zm-2 10H5V6h10v12h3v-8zm-9-5h6v2H9v-2z\"></path></svg>",
             "text": "Fast Shipping",
             "subtext": "7-12 Day Delivery"
           }
@@ -60,7 +70,7 @@
         "item_2": {
           "type": "column",
           "settings": {
-            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z\"\/><\/svg>",
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z\"></path></svg>",
             "text": "Secure Checkout",
             "subtext": "SSL Encrypted"
           }
@@ -68,7 +78,7 @@
         "item_3": {
           "type": "column",
           "settings": {
-            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"\/><\/svg>",
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z\"></path></svg>",
             "text": "Top Quality",
             "subtext": "Verified Brands"
           }
@@ -76,7 +86,7 @@
         "item_4": {
           "type": "column",
           "settings": {
-            "icon_svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z\"\/><\/svg>",
+            "icon_svg": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z\"></path></svg>",
             "text": "24/7 Support",
             "subtext": "Help Center"
           }
@@ -101,56 +111,56 @@
           "type": "category",
           "settings": {
             "heading": "Phone Cases",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_2": {
           "type": "category",
           "settings": {
             "heading": "Chargers",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_3": {
           "type": "category",
           "settings": {
             "heading": "Cables & Adapters",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_4": {
           "type": "category",
           "settings": {
             "heading": "Audio",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_5": {
           "type": "category",
           "settings": {
             "heading": "MagSafe",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_6": {
           "type": "category",
           "settings": {
             "heading": "Power Banks",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_7": {
           "type": "category",
           "settings": {
             "heading": "Screen Protection",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "cat_8": {
           "type": "category",
           "settings": {
             "heading": "Car Accessories",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         }
       },
@@ -173,26 +183,29 @@
     "best_sellers": {
       "type": "featured-collection",
       "settings": {
+        "collection": "",
+        "products_to_show": 8,
         "title": "Best Sellers",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
-        "products_to_show": 8,
         "columns_desktop": 4,
+        "enable_desktop_slider": true,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
-        "enable_quick_add": true,
+        "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": true
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "value_props": {
@@ -202,21 +215,27 @@
           "type": "column",
           "settings": {
             "title": "Premium Materials",
-            "text": "<p>We source only the highest quality materials for durability and feel.</p>"
+            "text": "<p>We source only the highest quality materials for durability and feel.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "col_2": {
           "type": "column",
           "settings": {
             "title": "Device Compatibility",
-            "text": "<p>Tested with the latest devices to ensure perfect fit and function.</p>"
+            "text": "<p>Tested with the latest devices to ensure perfect fit and function.</p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "col_3": {
           "type": "column",
           "settings": {
             "title": "Satisfaction Guarantee",
-            "text": "<p>Love it or your money back. 30-day hassle-free returns.</p>"
+            "text": "<p>Love it or your money back. 30-day hassle-free returns.</p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -230,14 +249,16 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-2",
         "columns_mobile": "1",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "testimonials": {
@@ -290,21 +311,27 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How long does shipping take?",
-            "row_content": "<p>Shipping usually takes 7-15 business days depending on your location.</p>"
+            "icon": "check_mark",
+            "row_content": "<p>Shipping usually takes 7-15 business days depending on your location.</p>",
+            "page": ""
           }
         },
         "q2": {
           "type": "collapsible_row",
           "settings": {
             "heading": "What is your return policy?",
-            "row_content": "<p>We offer a 30-day return policy for any defective or unsatisfied items.</p>"
+            "icon": "check_mark",
+            "row_content": "<p>We offer a 30-day return policy for any defective or unsatisfied items.</p>",
+            "page": ""
           }
         },
         "q3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you offer tracking?",
-            "row_content": "<p>Yes, you will receive a tracking number via email once your order ships.</p>"
+            "icon": "check_mark",
+            "row_content": "<p>Yes, you will receive a tracking number via email once your order ships.</p>",
+            "page": ""
           }
         }
       },
@@ -316,11 +343,16 @@
       "settings": {
         "caption": "Support",
         "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
-        "color_scheme": "scheme-1",
         "container_color_scheme": "scheme-2",
-        "open_first_collapsible_row": false
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "newsletter": {
